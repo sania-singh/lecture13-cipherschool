@@ -1,0 +1,12 @@
+FUNCTIONS
+
+#include<iostream>  //THIS LINE MEANS HEADER
+
+using namespace std;
+
+int main()   // WE HAVE WRITTEN A MAIN "FUNCTION"
+{
+cout<<"Hello world";
+
+return 0;
+}
